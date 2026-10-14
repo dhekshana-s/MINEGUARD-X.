@@ -59,12 +59,6 @@ The exact alert conditions and motor behaviour depend on the implemented code.
 - Arduino C/C++ programming
 - ESP32 development environment
 
-## Testing and Observations
-
-Document the tests actually performed on the prototype, including the observed sensor response, buzzer behaviour, and motor operation.
-
-Add recorded test distances, thresholds, or other measurements when available. Do not report unverified results.
-
 ## Limitations
 
 - Ultrasonic measurements can be affected by object shape, surface properties, alignment, and environmental conditions.
